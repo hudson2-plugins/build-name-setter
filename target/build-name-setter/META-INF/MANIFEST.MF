@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Built-By: fwjv
+Created-By: Apache Maven
+Build-Jdk: 1.6.0_29
+Extension-Name: build-name-setter
+Implementation-Title: build-name-setter
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: org.hudsonci.plugins
+Short-Name: build-name-setter
+Long-Name: Build Name Setter Plugin
+Url: http://hudson-labs.org/plugin/build-name-setter/
+Plugin-Version: 1.0-SNAPSHOT (private-04/27/2012 12:15-fwjv)
+Hudson-Version: null
+Plugin-Developers: Christine Lu:christine_lu:Christine.Lu@Oracle.com
+
